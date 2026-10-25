@@ -1,6 +1,4 @@
-# SchoolHub
-
-A Python and Streamlit school management prototype.
+# school-harmony-mugz..hv
 
 ## Run locally
 
@@ -19,6 +17,6 @@ Windows PowerShell:
 
 5. Start the application:
 
-   streamlit run app.py
+   render run app.py
 
 6. Open the local URL displayed in the terminal.
